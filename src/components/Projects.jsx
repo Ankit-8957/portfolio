@@ -38,6 +38,18 @@ const PROJECTS = [
     highlight: false,
   },
   {
+  id: 'jsonformatter',
+  name: 'JSON Formatter',
+  tagline: 'Free online JSON formatter & validator',
+  description:
+    'A lightweight tool to format, validate, and minify JSON instantly in the browser. Built with plain HTML, CSS, and JavaScript — no frameworks, no login, no limits.',
+  tech: ['HTML', 'CSS', 'JavaScript'],
+  github: 'https://github.com/Ankit-8957/JSON-Formatter.git',
+  demo: 'https://json-formatter-ten-ashy.vercel.app/',
+  status: 'null',
+  highlight: true,
+},
+  {
     id: 'yatrabuddy',
     name: 'YatraBuddy',
     tagline: 'Public transport guide app',
