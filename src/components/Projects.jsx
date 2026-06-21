@@ -46,7 +46,7 @@ const PROJECTS = [
   tech: ['HTML', 'CSS', 'JavaScript'],
   github: 'https://github.com/Ankit-8957/JSON-Formatter.git',
   demo: 'https://json-formatter-ten-ashy.vercel.app/',
-  status: 'null',
+  status: null,
   highlight: true,
 },
   {
